@@ -47,7 +47,7 @@ MYPORT (optional) is the UDP socket that Asterisk listens on for this channel
 
 #include "asterisk.h"
 
-ASTERISK_FILE_VERSION(__FILE__, "$Revision$")
+ASTERISK_FILE_VERSION(__FILE__, "$Revision: 1538 $")
 
 #include <stdio.h>
 #include <string.h>
