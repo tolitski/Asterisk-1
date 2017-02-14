@@ -493,7 +493,7 @@ enum{DAQ_TYPE_UCHAMELEON};
 #define	START_DELAY 2
 #endif
 
-ASTERISK_FILE_VERSION(__FILE__, "$Revision$")
+ASTERISK_FILE_VERSION(__FILE__, "$Revision: 1538 $")
 
 #include <signal.h>
 #include <stdio.h>
